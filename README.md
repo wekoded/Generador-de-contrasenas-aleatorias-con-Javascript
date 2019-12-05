@@ -1,9 +1,9 @@
 <p align="center"><img src="https://github.com/Kodesarrolladores/Base/blob/master/FB%20profile/facebook-profile-transparente.png" alt="Mark Text" width="100" height="100"></p>
 
-<h1 align="center">Generador de contraseñas aleatorias con javascript</h1>
+<h1 align="center">Generador de contraseñas aleatorias con Javascript</h1>
 
 <p align="center">
-Esta es una aplicación simple de Generador de Contraseñas que generará contraseñas aleatorias, tal vez usted pueda proteger su cuenta.
+Esta es una aplicación simple de Generador de contraseñas aleatorias, tal vez usted pueda proteger su cuenta.
 Hice todo lo posible para que el código sea lo más simple posible, <br>no se preocupe por los nombres de las variables.
 </p>
 
